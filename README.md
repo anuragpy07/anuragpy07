@@ -16,6 +16,9 @@
 <a href="https://www.codechef.com/users/nexify07" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="nexify07" height="30" width="40" />
 </a>
+<a href="https://leetcode.com/u/AnuragPy07/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LeetCode-AnuragPy07-blue?logo=leetcode&logoColor=white" alt="AnuragPy07 LeetCode" height="30" />
+</a>
 
 </p>
 
